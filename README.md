@@ -7,3 +7,4 @@ Este repositorio centraliza los proyectos desarrollados para la asignatura de C�
 Actualmente, el repositorio incluye las siguientes implementaciones:
 - Implementación del método de Bisección para encontrar raíces de funciones.
 - Implementación del método de Newton-Raphson para encontrar raíces de funciones.
+' Implementación del método de Integración Numérica de Riemann.
